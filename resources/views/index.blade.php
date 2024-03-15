@@ -39,7 +39,7 @@
         </div>
     </div>
 
-    <div class="text-center p-15 bg-black text-white">
+    <div class="text-center p-15 bg-orange-400 text-white">
         <h2 class="text-2xl pb-5 text-l"> 
             I'm an expert in...
         </h2>
