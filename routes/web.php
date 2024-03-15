@@ -32,5 +32,8 @@ Route::get('/address', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/phone', function () {
+    return view('phone');
+});
 
 Route::get('/whatwedo', [PostsController::class, 'whatWeDo']);
