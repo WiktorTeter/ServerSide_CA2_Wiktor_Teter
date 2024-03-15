@@ -44,7 +44,7 @@
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/phone">
+                    <a href="/">
                         Phone
                     </a>
                 </li>
@@ -63,22 +63,22 @@
 
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
-                    <a href="/blog/how-to-become-a-better-web-developer">
+                    <a href="/blog/how-to-become-a-better-web-developer-2">
                     Web Development
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities">
+                    <a href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities-2">
                     Virtual and Augmented Reality
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency">
+                    <a href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency-2">
                     Crypocurrency
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world">
+                    <a href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world-2">
                     TikTok
                     </a>
                 </li>

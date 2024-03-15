@@ -84,7 +84,7 @@
                 </h3>
 
                 <a 
-                    href="/blog/ai-what-is-it"
+                    href="/blog/ai-what-is-it-2"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
@@ -101,7 +101,7 @@
                 </h3>
 
                 <a 
-                    href="/blog/how-to-become-a-better-web-developer"
+                    href="/blog/how-to-become-a-better-web-developer-2"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
@@ -118,7 +118,7 @@
                 </h3>
 
                 <a 
-                    href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities"
+                    href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities-2"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
@@ -135,7 +135,7 @@
                 </h3>
 
                 <a 
-                    href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency"
+                    href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency-2"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
@@ -152,7 +152,7 @@
                 </h3>
 
                 <a 
-                    href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world"
+                    href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world-2"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
