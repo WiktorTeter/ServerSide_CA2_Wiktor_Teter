@@ -86,7 +86,7 @@
 
                 <a 
                     href="/blog/ai-what-is-it-2"
-                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    class="inline-block bg-yellow-600 text-gray-100 hover:bg-yellow-700 text-sm font-bold py-3 px-6 rounded-lg transition-colors">
                     Find Out More
                 </a>
             </div>
@@ -103,7 +103,7 @@
 
                 <a 
                     href="/blog/how-to-become-a-better-web-developer-2"
-                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    class="inline-block bg-yellow-600 text-gray-100 hover:bg-yellow-700 text-sm font-bold py-3 px-6 rounded-lg transition-colors">
                     Find Out More
                 </a>
             </div>
@@ -120,7 +120,7 @@
 
                 <a 
                     href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities-2"
-                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    class="inline-block bg-yellow-600 text-gray-100 hover:bg-yellow-700 text-sm font-bold py-3 px-6 rounded-lg transition-colors">
                     Find Out More
                 </a>
             </div>
@@ -137,7 +137,7 @@
 
                 <a 
                     href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency-2"
-                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    class="inline-block bg-yellow-600 text-gray-100 hover:bg-yellow-700 text-sm font-bold py-3 px-6 rounded-lg transition-colors">
                     Find Out More
                 </a>
             </div>
@@ -154,7 +154,7 @@
 
                 <a 
                     href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world-2"
-                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    class="inline-block bg-yellow-600 text-gray-100 hover:bg-yellow-700 text-sm font-bold py-3 px-6 rounded-lg transition-colors">
                     Find Out More
                 </a>
             </div>
