@@ -13,14 +13,19 @@
                     <h2 class="text-2xl font-semibold text-gray-900">Featured Tech Blogs</h2>
 
                         @forelse($blogPosts as $post)
-                            <div class="bg-gray-100 p-4 rounded-lg shadow">
-                                <h3 class="font-semibold text-xl text-gray-800">{{ $post->title }}</h3>
-                                <p class="text-gray-600 mt-2">{{ Str::limit($post->description, 90) }}</p>
-                                <div class="mt-4 flex justify-between items-center">
-                                    <a href="{{ url('/blog/' . $post->slug) }}" class="text-blue-600 hover:text-blue-800 transition duration-300">Read more</a>
-                                    <span class="text-sm text-gray-500">Published on: {{ $post->created_at->format('d/m/Y') }}</span>
+                        <div class="my-8 mx-auto max-w-4xl">
+                                <div class="space-y-8">
+                                    <div class="bg-gray-100 p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out">
+                                        <h3 class="font-semibold text-xl text-gray-800">{{ $post->title }}</h3>
+                                        <p class="text-gray-600 mt-4">{{ Str::limit($post->description, 90) }}</p>
+                                        <div class="mt-6 flex justify-between items-center">
+                                            <a href="{{ url('/blog/' . $post->slug) }}" class="text-blue-600 hover:text-blue-800 transition duration-300">Read more</a>
+                                            <span class="text-sm text-gray-500">Published on: {{ $post->created_at->format('d/m/Y') }}</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+
                         @empty
                             <p>No posts to display.</p>
                         @endforelse
