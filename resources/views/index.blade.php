@@ -76,7 +76,7 @@
 
         <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
             <div class="m-auto py-10 px-5 text-center">
-                <span class="uppercase text-xs">
+                <span class="uppercase text-sm font-bold text-gray-100">
                     Artificial Intelligence
                 </span>
 
@@ -93,7 +93,7 @@
         </div>
         <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
             <div class="m-auto py-10 px-5 text-center">
-                <span class="uppercase text-xs">
+                <span class="uppercase text-sm font-bold text-gray-100">
                     Web Development
                 </span>
 
@@ -110,7 +110,7 @@
         </div>
         <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
             <div class="m-auto py-10 px-5 text-center">
-                <span class="uppercase text-xs">
+                <span class="uppercase text-sm font-bold text-gray-100">
                     Virtual and Augmented Reality
                 </span>
 
@@ -127,7 +127,7 @@
         </div>
         <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
             <div class="m-auto py-10 px-5 text-center">
-                <span class="uppercase text-xs">
+                <span class="uppercase text-sm font-bold text-gray-100">
                     Crypocurrency
                 </span>
 
@@ -144,7 +144,7 @@
         </div>
         <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
             <div class="m-auto py-10 px-5 text-center">
-                <span class="uppercase text-xs">
+                <span class="uppercase text-sm font-bold text-gray-100">
                     TikTok
                 </span>
 
