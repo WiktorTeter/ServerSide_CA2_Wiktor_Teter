@@ -26,3 +26,8 @@ Route::get('/home', [\App\Http\Controllers\HomeController::class, 'index'])->nam
 Route::get('/whatwedo', function () {
     return view('whatwedo');
 });
+Route::get('/address', function () {
+    return view('address');
+});
+
+Route::get('/whatwedo', [PostsController::class, 'whatWeDo']);
