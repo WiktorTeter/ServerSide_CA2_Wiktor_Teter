@@ -9,7 +9,7 @@
                 </h1>
                 <a 
                     href="/blog/how-to-become-a-better-web-developer"
-                    class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase">
+                    class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase hover:shadow-lg transition-shadow duration-300 ease-in-out">
                     Read More
                 </a>
             </div>
