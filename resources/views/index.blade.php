@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    
+
     <div class="sm:grid grid-cols-2 gap-20 w-4/5 mx-auto py-15 border-b border-gray-200">
         <div>
             <img src="https://cdn.pixabay.com/photo/2014/05/03/01/03/laptop-336704_960_720.jpg" width="700" alt="">
@@ -102,6 +102,23 @@
 
                 <a 
                     href="/blog/how-to-become-a-better-web-developer"
+                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    Find Out More
+                </a>
+            </div>
+        </div>
+        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+                <span class="uppercase text-xs">
+                    Virtual and Augmented Reality
+                </span>
+
+                <h3 class="text-xl font-bold py-10">
+                    Looking to become more informed on VR and AR? Check out our latest post.
+                </h3>
+
+                <a 
+                    href="/blog/exploring-the-boundaries-virtual-and-augmented-reality-and-their-endless-possibilities"
                     class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
                     Find Out More
                 </a>
