@@ -80,7 +80,7 @@
                     Artificial Intelligence
                 </span>
 
-                <h3 class="text-xl font-bold py-10">
+                <h3 class="text-xl font-bold text-gray-100 py-4">
                     Looking to become more informed on AI? Check out our latest post.
                 </h3>
 
@@ -97,7 +97,7 @@
                     Web Development
                 </span>
 
-                <h3 class="text-xl font-bold py-10">
+                <h3 class="text-xl font-bold text-gray-100 py-4">
                     Looking to become more a better web developer? Check out our latest post.
                 </h3>
 
@@ -114,7 +114,7 @@
                     Virtual and Augmented Reality
                 </span>
 
-                <h3 class="text-xl font-bold py-10">
+                <h3 class="text-xl font-bold text-gray-100 py-4">
                     Looking to become more informed on VR and AR? Check out our latest post.
                 </h3>
 
@@ -131,7 +131,7 @@
                     Crypocurrency
                 </span>
 
-                <h3 class="text-xl font-bold py-10">
+                <h3 class="text-xl font-bold text-gray-100 py-4">
                     Looking to become more informed on Cryptocurrency? Check out our latest post.
                 </h3>
 
@@ -148,7 +148,7 @@
                     TikTok
                 </span>
 
-                <h3 class="text-xl font-bold py-10">
+                <h3 class="text-xl font-bold text-gray-100 py-4">
                     Looking to become more informed on TikTok? Check out our latest post.
                 </h3>
 
