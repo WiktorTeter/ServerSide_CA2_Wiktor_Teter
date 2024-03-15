@@ -45,16 +45,16 @@
         </h2>
 
         <span class="font-extrabold block text-4xl py-1">
-            Ux Design
+            Web Development
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Project Management
+            Social Media
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Digital Strategy
+            Cryptocurrency
         </span>
         <span class="font-extrabold block text-4xl py-1">
-            Backend Development
+            Virtual Reality
         </span>
     </div>
 
