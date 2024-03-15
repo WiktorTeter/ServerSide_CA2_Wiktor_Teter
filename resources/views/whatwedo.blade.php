@@ -12,7 +12,6 @@
                 <div class="mt-6">
                     <h2 class="text-2xl font-semibold text-gray-900">Featured Tech Blogs</h2>
 
-                        <!-- Loop through each blog post -->
                         @forelse($blogPosts as $post)
                             <div class="bg-gray-100 p-4 rounded-lg shadow">
                                 <h3 class="font-semibold text-xl text-gray-800">{{ $post->title }}</h3>
