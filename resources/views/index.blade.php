@@ -44,16 +44,16 @@
             I'm an expert in...
         </h2>
 
-        <span class="font-extrabold block text-4xl py-1">
+        <span class="font-extrabold block text-4xl py-1 hover:shadow-lg transition-shadow duration-300 ease-in-out">
             Web Development
         </span>
-        <span class="font-extrabold block text-4xl py-1">
+        <span class="font-extrabold block text-4xl py-1 hover:shadow-lg transition-shadow duration-300 ease-in-out">
             Social Media
         </span>
-        <span class="font-extrabold block text-4xl py-1">
+        <span class="font-extrabold block text-4xl py-1 hover:shadow-lg transition-shadow duration-300 ease-in-out">
             Cryptocurrency
         </span>
-        <span class="font-extrabold block text-4xl py-1">
+        <span class="font-extrabold block text-4xl py-1 hover:shadow-lg transition-shadow duration-300 ease-in-out">
             Virtual Reality
         </span>
     </div>
