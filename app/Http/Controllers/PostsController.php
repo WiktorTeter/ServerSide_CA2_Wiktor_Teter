@@ -8,6 +8,16 @@ use Cviebrock\EloquentSluggable\Services\SlugService;
 
 class PostsController extends Controller
 {
+
+    public function whatWeDo()
+{
+    // You might want to limit the number of posts and perhaps only get the latest ones
+    $featuredPosts = Post::orderBy('created_at', 'DESC')->take(10)->get();
+
+    // Pass the featured posts to the whatwedo view
+    return view('whatwedo')->with('blogPosts', $featuredPosts);
+}
+    
  
     public function __construct()
     {
