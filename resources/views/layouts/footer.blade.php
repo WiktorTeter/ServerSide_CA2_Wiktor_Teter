@@ -44,7 +44,7 @@
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/">
+                    <a href="/phone">
                         Phone
                     </a>
                 </li>
