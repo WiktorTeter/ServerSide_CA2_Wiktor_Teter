@@ -64,11 +64,11 @@
             <ul class="py-4 sm:text-s pt-4 text-gray-400">
                 <li class="pb-1">
                     <a href="/">
-                        Why we love tech
+                    Web Development
                     </a>
                 </li>
                 <li class="pb-1">
-                    <a href="/">
+                    <a href="/blog/how-to-become-a-better-web-developer">
                         Why we love design
                     </a>
                 </li>
