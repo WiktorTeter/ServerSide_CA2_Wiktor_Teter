@@ -33,7 +33,7 @@
 
             <a 
                 href="/blog/how-to-become-a-better-web-developer"
-                class="uppercase bg-blue-500 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
+                class="uppercase bg-orange-500 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                 Find Out More
             </a>
         </div>
