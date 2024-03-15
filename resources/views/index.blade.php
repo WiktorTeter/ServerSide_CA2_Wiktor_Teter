@@ -72,9 +72,10 @@
         </p>
     </div>
 
-    <div class="sm:grid grid-cols-2 w-4/5 m-auto">
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
-            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 w-4/5 mx-auto mt-10">
+
+        <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
+            <div class="m-auto py-10 px-5 text-center">
                 <span class="uppercase text-xs">
                     Artificial Intelligence
                 </span>
@@ -90,8 +91,8 @@
                 </a>
             </div>
         </div>
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
-            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+        <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
+            <div class="m-auto py-10 px-5 text-center">
                 <span class="uppercase text-xs">
                     Web Development
                 </span>
@@ -107,8 +108,8 @@
                 </a>
             </div>
         </div>
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
-            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+        <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
+            <div class="m-auto py-10 px-5 text-center">
                 <span class="uppercase text-xs">
                     Virtual and Augmented Reality
                 </span>
@@ -124,8 +125,8 @@
                 </a>
             </div>
         </div>
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
-            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+        <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
+            <div class="m-auto py-10 px-5 text-center">
                 <span class="uppercase text-xs">
                     Crypocurrency
                 </span>
@@ -141,8 +142,8 @@
                 </a>
             </div>
         </div>
-        <div class="flex bg-yellow-700 text-gray-100 pt-10">
-            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+        <div class="flex bg-yellow-500 rounded-lg shadow-lg overflow-hidden transform transition-all hover:scale-105">
+            <div class="m-auto py-10 px-5 text-center">
                 <span class="uppercase text-xs">
                     TikTok
                 </span>
@@ -158,6 +159,9 @@
                 </a>
             </div>
         </div>
+
+
+        
         <div>
             <img src="https://cdn.pixabay.com/photo/2014/05/03/01/03/laptop-336704_960_720.jpg" alt="">
         </div>
