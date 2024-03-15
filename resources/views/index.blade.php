@@ -124,6 +124,40 @@
                 </a>
             </div>
         </div>
+        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+                <span class="uppercase text-xs">
+                    Crypocurrency
+                </span>
+
+                <h3 class="text-xl font-bold py-10">
+                    Looking to become more informed on Cryptocurrency? Check out our latest post.
+                </h3>
+
+                <a 
+                    href="/blog/unveiling-the-crypto-revolution-possibilities-beyond-currency"
+                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    Find Out More
+                </a>
+            </div>
+        </div>
+        <div class="flex bg-yellow-700 text-gray-100 pt-10">
+            <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+                <span class="uppercase text-xs">
+                    TikTok
+                </span>
+
+                <h3 class="text-xl font-bold py-10">
+                    Looking to become more informed on TikTok? Check out our latest post.
+                </h3>
+
+                <a 
+                    href="/blog/the-tiktok-phenomenon-unleashing-creativity-and-connecting-the-world"
+                    class="uppercase bg-transparent border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                    Find Out More
+                </a>
+            </div>
+        </div>
         <div>
             <img src="https://cdn.pixabay.com/photo/2014/05/03/01/03/laptop-336704_960_720.jpg" alt="">
         </div>
