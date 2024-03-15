@@ -5,7 +5,7 @@
                 Pages
             </h3>
 
-            <ul class="py-4 sm:text-s pt-4 text-gray-400">
+            <ul class="py-4 sm:text-s pt-4 text-white">
                 <li class="pb-1">
                     <a href="/">
                         Home
@@ -30,7 +30,7 @@
         </div>
 
         <div>
-            <h3 class="text-l sm:font-bold text-gray-100">
+            <h3 class="text-l sm:font-bold text-white">
                 Find Us
             </h3>
 
